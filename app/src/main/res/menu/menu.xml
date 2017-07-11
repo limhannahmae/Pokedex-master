@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_pokemon"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Pokemon"/>
+
+    <item
+        android:id="@+id/action_items"
+        android:title="Items">
+    </item>
+
+    <item
+        android:id="@+id/action_moves"
+        android:title="Moves">
+    </item>
+
+    <item
+        android:id="@+id/action_locations"
+        android:title="Locations">
+    </item>
+
+    <item
+        android:id="@+id/action_utility"
+        android:title="Utility">
+    </item>
+</menu>
